@@ -1,0 +1,17 @@
+<HTML>
+<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+<BODY>
+   <H1> TÍTULO1 </H1>
+</BODY>
+</HTML>
+ git commit -m “primeiro commit na branch main”
+publicar seu arquivo na branch main;
+criar uma nova branch, chamada feature1;
+na branch feature1, publicar o mesmo arquivo;
+realizar seguinte alteração na linha h1 do arquivo da branch main:
+<HTML>
+<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+<BODY>
+    <H1> VERSIONAMENTO </H1>
+</BODY>
+</HTML>
